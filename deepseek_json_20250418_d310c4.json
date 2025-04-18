@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "موسم الرياض 2023",
+        "date": "١ أكتوبر - ٣١ ديسمبر",
+        "location": "الرياض",
+        "image": "images/events/riyadh-season.jpg",
+        "link": "https://riyadhseason.sa"
+    },
+    {
+        "id": 2,
+        "name": "موسم جدة 2023",
+        "date": "١٥ يونيو - ١٥ يوليو",
+        "location": "جدة",
+        "image": "images/events/jeddah-season.jpg",
+        "link": "https://jeddahseason.sa"
+    }
+    // ... باقي الفعاليات
+]
